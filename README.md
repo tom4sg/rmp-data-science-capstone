@@ -1,4 +1,4 @@
-# RMP Capstone Data Analysis (Professor Evaluations)
+# RMP Data Science Capstone (Professor Evaluations)
 
 ---
 
