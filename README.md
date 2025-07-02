@@ -52,7 +52,7 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn statsmodels
    - Read both CSVs, assign column names.  
    - Merge numeric & qualitative tables.  
    - Drop rows missing critical fields.  
-   - Set random seed (11233917) for reproducibility.
+   - Set random seed for reproducibility.
 
 2. **Statistical Tests & Visualizations**  
    - **Q1**: Gender bias (Welch’s t-test, Mann–Whitney U, Cohen’s d)  
